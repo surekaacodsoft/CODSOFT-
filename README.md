@@ -1,2 +1,6 @@
-# CODSOFT-
-Cod soft Python Programming Internship 
+### CODSOFT PYTHON PROGRAMMING INTERNSHIP  
+### TASK 1 
+### TO DO LIST APPLICATION 
+
+
+
